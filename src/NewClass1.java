@@ -9,5 +9,8 @@
  * @author DAM106
  */
 public class NewClass1 {
+    public void mm(){
+        System.out.println("SFDSFFSSF");
+    }
     
 }
